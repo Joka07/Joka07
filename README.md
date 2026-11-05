@@ -54,7 +54,6 @@ My playground for experimenting with:
 - Linux and FreeBSD
 - Network security
 - Open-source contributions
-- Game development with Unity
 
 ---
 
